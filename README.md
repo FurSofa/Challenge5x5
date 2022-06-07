@@ -1,5 +1,3 @@
-# Challenge5x5
-
 # Challenge5x5 - By Fur 
 
 A simple mod for [Backpack Hero](https://store.steampowered.com/app/1970580/Backpack_Hero/) to limit the bag size for challenge runs!
